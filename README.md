@@ -64,7 +64,3 @@ Water tomorrow: 2024-08-11 08:00:00.
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This README.md keeps it simple while providing all the necessary information to understand and run your project.
